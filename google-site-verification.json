@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.mostafaazzam.daily_rise",
+      "sha256_cert_fingerprints": [
+        "4F:AA:13:FF:96:FF:40:75:68:1A:D1:5E:12:7C:C1:27:46:00:13:CA:B2:24:1E:77:C1:39:24:6C:00:7D:D0:E5"
+      ]
+    }
+  }
+]
